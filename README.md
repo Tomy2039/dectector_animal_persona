@@ -3,7 +3,7 @@ esta trabajo esta orientado en dectectar a travez de la camara de su dispositvo 
 
 # clonar el repositorio
 1-abre el git bash 
-2-escribe "git clone https://github.com/Tomy2039/tateti_seminario " 
+2-escribe "git clone https://github.com/Tomy2039/dectector_animal_persona" 
 3-escribe "code .". una vez cargado el codigo en su maquina
 
 # Pasos para la ejecucion
